@@ -52,7 +52,6 @@
 ## Current Focus
 
 - 🎮 Prototyping 2D/3D mechanics in Godot, working through core game design and level-building principles.
-- ☁️ Deepening my understanding of cloud architecture and API integration, including working with the Gemini API in full-stack projects.
 
 ---
 
